@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jruiz971&layout=compact&theme=radical&count_private=true)
 
-- 📫 How to reach me: juanluisruiz971@comunidad.unam.mx
+- 📫 How to reach me: juanluisruiz971@gmail.com
